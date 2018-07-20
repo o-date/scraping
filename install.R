@@ -1,0 +1,6 @@
+install.packages("ggplot2")
+install.packages("archdata")
+install.packages("RCurl")
+install.packages("jsonlite")
+install.packages("rJava")
+install.packages("tabulizer")
